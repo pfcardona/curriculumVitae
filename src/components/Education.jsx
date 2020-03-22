@@ -1,7 +1,10 @@
 import React from 'react';
-
+import H2Styled from '../styled/H2Element';    
+import H3Styled from '../styled/H3Element';   
+import ParamElement from '../styled/ParamElement';     
 const Education = props => (
     <div className="Education">
+        <H2Styled name="Education" />
         {/* // function map que nos permite iterar por un arreglo 
         // y retornar por un arrreglo po cada  uno de los elementos  
         //Index es para que react puede identificar
@@ -10,10 +13,12 @@ const Education = props => (
         
         {props.data.map((edu, index) => (
             <div className='Education-item' key={`Education-${index}`}>
-                <h3><p>hola </p> {edu.degree} @ {edu.institution}             
-                    <span>{edu.startDate} - {edu.endDate} </span>  
-                </h3>         
-                                                        
+                <H3Styled> {edu.degree} @ {edu.institution} &nbsp;            
+                    <span>
+                        {edu.startDate} - {edu.endDate} 
+                    </span>  
+                </H3Styled>         
+               <ParamElement content={edu.description} />                                         
             </div>
         ))}
     </div>

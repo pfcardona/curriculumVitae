@@ -51,3 +51,11 @@ Puedes encontrar más información sobre Webpack Dev Server y Live Reload en: ht
 _______________________________________
 
 Vamos a usar el custom hook que acabamos de crear, la función useGetData(), para reemplazar la información de prueba por los datos reales que obtenemos de nuestra API.
+
+
+___________________________________________
+
+Styled-components nos ayudan a crear nuestros estilos en componentes de React con JavaScript sin perder las características de CSS, de hecho, conseguimos algunos beneficios extra al juntar ambos lenguajes: CSS y JavaScript.
+Instalación de styled-components: npm install styled-components --save
+
+Más información sobre styled-components en: https://www.styled-components.com
