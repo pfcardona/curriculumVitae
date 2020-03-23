@@ -59,3 +59,7 @@ Styled-components nos ayudan a crear nuestros estilos en componentes de React co
 Instalación de styled-components: npm install styled-components --save
 
 Más información sobre styled-components en: https://www.styled-components.com
+
+___________________________________________________________
+
+Travis CI es un servicio que nos ayuda a crear un script para hacer deploy de nuestro repositorio a un servidor en la nube, vamos a generar un nuevo commit en la rama master cada vez que nuestros cambios en la rama develop pasen las pruebas con la configuración de Travis en el archivo .travis.yml.
