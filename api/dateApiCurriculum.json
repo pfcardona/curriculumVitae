@@ -1,6 +1,6 @@
 {
     "address": "Medellin, Colombia.",
-    "avatar": "https://unsplash.com/photos/Q14J2k8VE3U",
+    "avatar": "https://picsum.photos/id/117/1544/1024",
     "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones a la medida con diseño centrado en el usuario, para el sector educativo y salud con manejo del Git workflow. Me apasiona mucho  UI/UX.",
     "certificate": [
     {
@@ -18,14 +18,14 @@
 ],
 "education": [
     {
-    "degree": "Ingeniería Telemática",
+    "degree": "Ingeniero Telemático",
     "description": " ",
     "endDate": "Diciembre 2011",
     "institution": "Universidad Católica de Manizales",
     "startDate": "Enero 2007"
     },
     {
-    "degree": "Especialización en Gerencia de la Calidad",
+    "degree": "Especialista en Gerencia de la Calidad",
     "description": "",
     "endDate": "Diciembre 2015",
     "institution": "Universidad Católica de Manizales",
