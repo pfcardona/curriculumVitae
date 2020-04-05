@@ -1,0 +1,117 @@
+{
+    "address": "Medellin, Colombia.",
+    "avatar": "https://unsplash.com/photos/Q14J2k8VE3U",
+    "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones  a la medida con diseño centrado en el usuario, para el sector educativo y salud. Me apasiona mucho  UI/UX con buenas prácticas de diseño web.",
+    "certificate": [
+    {
+    "date": "Marzo 2020",
+    "description": "React Hooks, Redux, API Fetch. ",
+    "institution": "Platzi",
+    "name": "React"
+    },
+    {
+    "date": "Marzo 2020",
+    "description": "CSS Grid Layout - Babel - WebPack y Javascript",
+    "institution": "Platzi",
+    "name": "FrontEnd Developer"
+    }
+],
+"education": [
+    {
+    "degree": "Ingeniería Telemática",
+    "description": " ",
+    "endDate": "Diciembre 2011",
+    "institution": "Universidad Católica de Manizales",
+    "startDate": "Enero 2007"
+    },
+    {
+    "degree": "Especialización en Gerencia de la Calidad",
+    "description": "",
+    "endDate": "Diciembre 2015",
+    "institution": "Universidad Católica de Manizales",
+    "startDate": "Enero 2015"
+    }
+],
+"experience": [
+    {
+    "company": "Universidad Católica de Manizales",
+    "endDate": "Febrero 2018",
+    "jobDescription": "Desarrolle contenidos animados con test de aprendizaje en HTML, CSS, JAVASCRIPT Y PHP Y MYSQL. Calculadora de créditos multiplataforma con (PhoneGap).Desarrolle el Sistema de gestión educativo  por roles de las unidades de producción de conocimiento. Framework de PHP (Codeigniter). ",
+    "jobTitle": "Gestor TIC- Desarrollador web ",
+    "startDate": "Enero 2012"
+    },
+    {
+    "company": "CPC Agencia",
+    "endDate": "Septiembre 2019",
+    "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+    "jobTitle": "Desarrollador web - Web Master",
+    "startDate": "Enero 2019"
+    },
+    {
+        "company": " Okum Technologies",
+        "endDate": "Marzo 2020",
+        "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+        "jobTitle": "Desarrollador Full Stack",
+        "startDate": "Octubre 2019"
+    },
+    {
+        "company": "BIOS – Centro de BioInformática Computacional",
+        "endDate": "Enero 2019",
+        "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+        "jobTitle": "Gestor TIC – Desarrollador Web",
+        "startDate": "Marzo 2018"
+    }
+],
+"name": "Pablo Felipe Cardona López",
+"profession": "FrontEnd Developer",
+"email": "pfcardona@gmail.com",
+"phone": "3146865792",
+"skills": [
+    {
+    "name": "HTML5",
+    "percentage": "75%"
+    },
+    {
+    "name": "CSS - SASS",
+    "percentage": "75%"
+    },
+    {
+    "name": "JavaScript",
+    "percentage": "55%"
+    },
+    {
+    "name": "React",
+    "percentage": "25%"
+    },
+    {
+    "name": "WordPress",
+    "percentage": "25%"
+    },
+    {
+    "name": "Git y GitHub",
+    "percentage": "25%"
+    },
+    {
+    "name": "Meteor",
+    "percentage": "25%"
+    }
+],
+"social": [
+    {
+    "name": "facebook",
+    "url": "https://www.facebook.com/pablofcardona"
+    },
+    {
+    "name": "twitter",
+    "url": "https://twitter.com/pfcardona"
+    },
+    {
+    "name": "github",
+    "url": "https://github.com/pfcardona"
+    },
+    {
+    "name": "linkedin",
+    "url": "https://www.linkedin.com/"
+    }
+]
+}
