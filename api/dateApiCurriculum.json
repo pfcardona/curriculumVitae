@@ -1,7 +1,7 @@
 {
     "address": "Medellin, Colombia.",
     "avatar": "https://unsplash.com/photos/Q14J2k8VE3U",
-    "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones  a la medida con diseño centrado en el usuario, para el sector educativo y salud. Me apasiona mucho  UI/UX con buenas prácticas de diseño web.",
+    "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones a la medida con diseño centrado en el usuario, para el sector educativo y salud con manejo del Git workflow. Me apasiona mucho  UI/UX.",
     "certificate": [
     {
     "date": "Marzo 2020",
@@ -10,8 +10,8 @@
     "name": "React"
     },
     {
-    "date": "Marzo 2020",
-    "description": "CSS Grid Layout - Babel - WebPack y Javascript",
+    "date": "Enero 2020",
+    "description": "CSS Grid Layout  - Babel - WebPack y Javascript",
     "institution": "Platzi",
     "name": "FrontEnd Developer"
     }

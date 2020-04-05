@@ -1,5 +1,5 @@
 import { useState, useEffect} from 'react';
-const api = 'https://us-central1-gndx-cv.cloudfunctions.net/me';
+const api = 'https://raw.githubusercontent.com/pfcardona/curriculumVitae/develop/api/dateApiCurriculum.json';
 // inicializamos todas las funciones con la palabra use
 
 const userGetData = () => {
