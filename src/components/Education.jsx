@@ -4,7 +4,7 @@ import H3Styled from '../styled/H3Element';
 import ParamElement from '../styled/ParamElement';     
 const Education = props => (
     <div className="Education">
-        <H2Styled name="Education" />
+        <H2Styled name="Educación" />
         {/* // function map que nos permite iterar por un arreglo 
         // y retornar por un arrreglo po cada  uno de los elementos  
         //Index es para que react puede identificar

@@ -14,7 +14,7 @@ const AboutAvatarImg = styled.img`
   border-radius: 100%;
   width: 160px;
   height: 160px;
-  border: 2px solid #E91E63;
+  border: 2px solid #0e76a8;
   margin: 0 auto;
   display: block;
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
@@ -25,14 +25,14 @@ const Abouth2 = styled.h2`
   font-weight: 400;
   letter-spacing: 1.2px;
   margin: .5em 0 0 0;
-  color: #C2185B;
+  color: #0e76a8;
 `;
 
 const AboutProfession = styled.p`
   margin: .2em 0 1em 0;
   letter-spacing: 1.6px;
   font-weight: 300;
-  color: #C2185B;
+  color: #0e76a8;
 `;
 
 const AboutBio = styled.p`
@@ -50,24 +50,23 @@ const AboutLocation = styled.p`
 // extraer los elementos que nosotros pasamos como propiedades
 //Se las vamos asignar aqui como elementos de objeto para que podamos desectructuraRlo
 //y poderlas utilizar dentro de nuestro componente.
-const About = ({ avatar, name, profession, bio, address, social }) => (
+const About = ({ avatar, name,email, profession, bio, address, social }) => (
     <AboutStyle>
         <div className="About-container">
-            <AboutAvatar>
-            <figure>
-                <img src={avatar} alt={name}/>
-            </figure>
-            </AboutAvatar>  
+          <AboutAvatar>          
+            <AboutAvatarImg src={avatar} alt={name}/>            
+          </AboutAvatar>  
         </div>
         <div className="About-name">
         <Abouth2>{name}</Abouth2>
         </div>
         
         <AboutProfession>{profession}</AboutProfession>
+        <AboutProfession>{email}</AboutProfession>
         <AboutBio>
             {bio}
         </AboutBio>
-         <AboutLocation>
+        <AboutLocation>
             {address}
         </AboutLocation>
         <div className="About-social">

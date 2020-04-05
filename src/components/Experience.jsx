@@ -6,7 +6,7 @@ import ParamElement from '../styled/ParamElement';
 // Desestructuramos los elementos del objeto
 const Experience = props => (
     <div className="Experience">
-        <H2Styled name="Experience"/>  
+        <H2Styled name="Experiencia"/>  
         {props.data.map((exp, index) => (       
         <div className='item' key={`Experience-${index}`}>
              <H3Styled>{exp.jobTitle} @ {exp.company} &nbsp; 

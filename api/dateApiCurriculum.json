@@ -1,7 +1,7 @@
 {
     "address": "Medellin, Colombia.",
     "avatar": "http://imgfz.com/i/fzBFKSG.jpeg",
-    "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones a la medida con diseño centrado en el usuario, para el sector educativo y salud con manejo del Git workflow. Me apasiona mucho  UI/UX.",
+    "bio": "Ingeniero con más de 2 años de experiencia profesional en desarrollo web creando aplicaciones a la medida con diseño centrado en el usuario, para el sector educativo y salud con manejo del Git workflow y metodologías ágiles con SCRUM",
     "certificate": [
     {
     "date": "Marzo 2020",
@@ -43,7 +43,7 @@
     {
     "company": "CPC Agencia",
     "endDate": "Septiembre 2019",
-    "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+    "jobDescription": "Creación de sitios web (Wordpress), con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
     "jobTitle": "Desarrollador web - Web Master",
     "startDate": "Enero 2019"
     },

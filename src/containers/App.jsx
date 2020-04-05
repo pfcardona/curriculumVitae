@@ -9,6 +9,7 @@ import Experience from '../components/Experience';
 import Certificate from '../components/Certificate';
 import Skills from '../components/Skills';
 import useGetData from '../hooks/useGetDara';
+import Loader from '../components/Loader';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -21,16 +22,16 @@ const GlobalStyle = createGlobalStyle`
 
 const App = () => {
 //  constante que va a traer la información y luego la va a empujar
- const data = useGetData();
- console.log(data);
-  return data.length === 0 ? <h1>Cargando...</h1> : (
+  const data = useGetData();
+  return data.length === 0 ? <><GlobalStyle /><Loader />.</> : (
     <Main>
-        <GlobalStyle />     
+        <GlobalStyle/>     
       <Sidebar>
         <About
           avatar={data.avatar}
           name={data.name}
           profession={data.profession}
+          email={data.email}
           bio={data.bio}
           address={data.address}
           social={data.social}
@@ -39,11 +40,12 @@ const App = () => {
       {/* //Componente de Info que encapsula  4 componentes 
       //vamos a pasarle lo que necesita cada uno de ellos */}
       <Info>
-        <Education
-          data = {data.education} 
-        />
+        
         <Experience  
             data = {data.experience} 
+        />
+        <Education
+          data = {data.education} 
         />
         <Certificate
           data = {data.certificate}  
