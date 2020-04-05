@@ -34,33 +34,34 @@
 ],
 "experience": [
     {
-    "company": "Universidad Católica de Manizales",
-    "endDate": "Febrero 2018",
-    "jobDescription": "Desarrolle contenidos animados con test de aprendizaje en HTML, CSS, JAVASCRIPT Y PHP Y MYSQL. Calculadora de créditos multiplataforma con (PhoneGap).Desarrolle el Sistema de gestión educativo  por roles de las unidades de producción de conocimiento. Framework de PHP (Codeigniter). ",
-    "jobTitle": "Gestor TIC- Desarrollador web ",
-    "startDate": "Enero 2012"
-    },
-    {
-    "company": "CPC Agencia",
-    "endDate": "Septiembre 2019",
-    "jobDescription": "Creación de sitios web (Wordpress), con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
-    "jobTitle": "Desarrollador web - Web Master",
-    "startDate": "Enero 2019"
-    },
-    {
         "company": " Okum Technologies",
         "endDate": "Marzo 2020",
-        "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+        "jobDescription": "•Implementación de metodologías ágiles con Scrum  con una herramienta de gestión de proyectos (Jira) .Creación de mockups,  user story y diseño conceptual, para nuevas funcionalidades de la App y casos de prueba.Funciones de full Stack JavaScript en un framework (meteor), con base  de datos no relacionales (mongo DB) y Front End React.",
         "jobTitle": "Desarrollador Full Stack",
         "startDate": "Octubre 2019"
     },
     {
+        "company": "CPC Agencia",
+        "endDate": "Septiembre 2019",
+        "jobDescription": "Creación de sitios web (Wordpress), con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+        "jobTitle": "Desarrollador web - Web Master",
+        "startDate": "Enero 2019"
+    },
+    {
         "company": "BIOS – Centro de BioInformática Computacional",
         "endDate": "Enero 2019",
-        "jobDescription": "Creación de sitios web (Wordpress) con carrito de compras en woocommerce, con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
-        "jobTitle": "Gestor TIC – Desarrollador Web",
+        "jobDescription": "Diseño, Creación y desarrollo de cursos virtuales con módulos interactivos, en tecnologías (php, html, css y javascript) para el convenio macro con la Universidad Nacional con el objetivo de efectuar dinero de regalías ",
+        "jobTitle": "Desarrollador web",
         "startDate": "Marzo 2018"
+    },
+    {
+    "company": "Universidad Católica de Manizales",
+    "endDate": "Febrero 2018",
+    "jobDescription": "Desarrolle contenidos animados con test de aprendizaje en HTML, CSS, JAVASCRIPT Y PHP Y MYSQL. Calculadora de créditos multiplataforma con (PhoneGap).Desarrolle el Sistema de gestión educativo  por roles de las unidades de producción de conocimiento. Framework de PHP (Codeigniter) ",
+    "jobTitle": "Gestor TIC- Desarrollador web ",
+    "startDate": "Enero 2012"
     }
+    
 ],
 "name": "Pablo Felipe Cardona López",
 "profession": "FrontEnd Developer",
