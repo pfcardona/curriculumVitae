@@ -1,4 +1,22 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> d2b1215784ff114a14af20309897a0b442a398f3
+# Curriculum Vitae
+
+### Instalación
+```
+npm install
+```
+### Compilar proyecto
+```
+npm run build
+```
+Servidor de desarrollo
+```
+npm run start
+```
+
+## Autor
+
+- Pablo Felipe Cardona López
+
+
+Este sitio se construyó usando [GitHub Pages](https://pfcardona.github.io/curriculumVitae/).
