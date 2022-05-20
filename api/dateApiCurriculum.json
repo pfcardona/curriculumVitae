@@ -36,14 +36,14 @@
     {
         "company": " Okum Technologies",
         "endDate": "Marzo 2020",
-        "jobDescription": "•Implementación de metodologías ágiles con Scrum  con una herramienta de gestión de proyectos (Jira) .Creación de mockups,  user story y diseño conceptual, para nuevas funcionalidades de la App y casos de prueba.Funciones de full Stack JavaScript en un framework (meteor), con base  de datos no relacionales (mongo DB) y Front End React.",
+        "jobDescription": "•Implementación de metodologías ágiles con Scrum manejo de herramienta de gestión de proyectos (Jira) .Creación de mockups,  user story y diseño conceptual, para nuevas funcionalidades de la App y casos de prueba.Funciones de full Stack JavaScript con base  de datos no relacionales (mongo DB) y Front End React.",
         "jobTitle": "Desarrollador Full Stack",
         "startDate": "Octubre 2019"
     },
     {
         "company": "CPC Agencia",
         "endDate": "Septiembre 2019",
-        "jobDescription": "Creación de sitios web (Wordpress), con diseño responsive. Landing Pages en (SPA) EN React, Aplicaciones Js con el Framework (Meteor)",
+        "jobDescription": "Landing Pages en (SPA) EN React, Aplicaciones en JavaScript",
         "jobTitle": "Desarrollador web - Web Master",
         "startDate": "Enero 2019"
     },
@@ -86,16 +86,12 @@
     },
     {
     "name": "WordPress",
-    "percentage": "25%"
+    "percentage": "50%"
     },
     {
     "name": "Git y GitHub",
-    "percentage": "25%"
+    "percentage": "75%"
     },
-    {
-    "name": "Meteor",
-    "percentage": "25%"
-    }
 ],
 "social": [
     {
